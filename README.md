@@ -13,3 +13,8 @@ And basic prediction techniques include:
 
 
 These all are discussed in this notebook!
+
+
+
+
+In the second part, we have used deep learning to predict the next value in a sequence, this is very simple. Just divide the series into bunch of windows and use each window as input , and next value to window as label.
